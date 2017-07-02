@@ -1,30 +1,16 @@
-# element-app
+# 高仿 饿了么
 
-> A Vue.js project
+> 基于 vue2 vue-cli 的开发 
 
-## Build Setup
+> 对学习 vue 的一个总结，加强对组件的数据维护的巩固
+
+## 运行
 
 ``` bash
-# install dependencies
+# 在 element-app 下
+
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
