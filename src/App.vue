@@ -8,7 +8,11 @@
                 <li><router-link to="/seller">商家</router-link></li>
             </ul>
         </div>
-        <div><router-view :seller="seller"></router-view></div>
+        <div>
+            <keep-alive>
+                <router-view :seller="seller"></router-view>
+            </keep-alive>
+        </div>
     </div>
 </template>
 
