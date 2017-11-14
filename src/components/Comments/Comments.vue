@@ -242,8 +242,6 @@
                         margin-right:12px;
                         
                         img{
-                            -webkit-border-radius:;
-                            -moz-border-radius:;
                             border-radius:50%;
                         }
                     }
